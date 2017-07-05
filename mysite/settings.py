@@ -25,7 +25,7 @@ SECRET_KEY = 'w+gnact#b=rnlx1wnkg^g1jaac8gl3ws*5&7&(yg_*$ofima^1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','myBlog.djangoExample.com']
+ALLOWED_HOSTS = ['127.0.0.1','rahul2017.pythonanywhere.com']
 
 
 # Application definition
